@@ -18,11 +18,8 @@ Final Report.pdf : Final paper explaining the work
 Final Symposium Poster.pdf : Poster that we presented in the ML symposium 
 Final Symposium Supporting Slides.pdf : Supporting slides for symposium
 Final Elevator Video.mp4 : elevator video for the symposium
-<br/>
 ### Midway
 * Midway Poster.pdf : Midway progress report poster
 * Midway Video.mp4 : Midway progress video narrative
-<br/>
-
 ### Initial
 * Proposal.pdf : The project proposal
