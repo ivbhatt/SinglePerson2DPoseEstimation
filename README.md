@@ -1,9 +1,9 @@
 # SinglePerson2DPoseEstimation-DLNN-ProjF
 Single Person 2D Pose Estimation System (inspired from CPMs and SHMs); trained and evaluated on a subset of the MPII HumanPosedataset; achieves 81.5% PCKh@0.5 
 
-##
+## Trained model and dataset
 * Trained model (NCSU Access) : https://drive.google.com/file/d/1-0AATWGPWkk194vPcQkJmFGQRiBFnMex/view?usp=sharing
-* Dataset (stored in numpy arrays) : https://drive.google.com/drive/folders/1zeGcN10panCDqsS2cPCeDs-41124tipv?usp=sharing
+* Dataset (stored in numpy arrays) (NCSU Access) : https://drive.google.com/drive/folders/1zeGcN10panCDqsS2cPCeDs-41124tipv?usp=sharing
 
 ## code description
 * Generate_MPII_Dataset.ipynb : This notebook contains code to download the MPII dataset from the internet (uses tensorlayer); cleans the data
@@ -19,11 +19,9 @@ Final Symposium Poster.pdf : Poster that we presented in the ML symposium
 Final Symposium Supporting Slides.pdf : Supporting slides for symposium
 Final Elevator Video.mp4 : elevator video for the symposium
 <br/>
-
 ### Midway
 * Midway Poster.pdf : Midway progress report poster
 * Midway Video.mp4 : Midway progress video narrative
 <br/>
-
 ### Initial
 * Proposal.pdf : The project proposal
