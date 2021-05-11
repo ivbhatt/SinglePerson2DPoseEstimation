@@ -23,5 +23,6 @@ Final Elevator Video.mp4 : elevator video for the symposium
 * Midway Poster.pdf : Midway progress report poster
 * Midway Video.mp4 : Midway progress video narrative
 <br/>
+
 ### Initial
 * Proposal.pdf : The project proposal
