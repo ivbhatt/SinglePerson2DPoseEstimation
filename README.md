@@ -23,3 +23,7 @@ Final Elevator Video.mp4 : elevator video for the symposium
 * Midway Video.mp4 : Midway progress video narrative
 ### Initial
 * Proposal.pdf : The project proposal
+
+
+## Acknowledgement
+Aishwarya Seth (aseth@ncsu.edu) hsa written most of the code in Generate_MPII_Dataset.ipynb
